@@ -1,0 +1,15 @@
+Mean temperature:
+
+//*[@id="historyTable"]/tbody/tr[2]/td[2]/span/span[1]/text()
+
+Average humidity:
+
+//*[@id="historyTable"]/tbody/tr[9]/td[2]/text()
+
+Wind speed:
+
+//*[@id="historyTable"]/tbody/tr[17]/td[2]/span/span[1]/text()
+
+Dew point:
+
+//*[@id="historyTable"]/tbody/tr[8]/td[2]/span/span[1]/text()

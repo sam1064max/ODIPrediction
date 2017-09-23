@@ -1,0 +1,109 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{placeins}
+\usepackage{hyperref}
+\usepackage{amsmath}
+
+\title{Predicting the outcome of ODI Cricket matches}
+\author{Samiran Roy \texttt{153050091}\\Sushant Shambharkar \texttt{153050081}\\Ganesh Bhambarkar \texttt{153050072}\\Surendra Singh Rao \texttt{153050069}}
+\date{February 2016}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+ 
+\end{abstract}
+
+\section{Description}
+
+Our task is to investigate to what degree we can predict the outcome of cricket matches, specifically ODI Matches. Given the popularity of this multi-million dollar industry, there is a strong incentive for match fixing and underground betting.  The complex rules surrounding the game, along with the numerous parameters affecting the game, including but not limited to cricketing skills and performances, match venues, toss, weather conditions present significant challenges for accurate prediction. This problem has been well investigated for games like basketball and soccer, but yet to be researched for cricket.
+
+\section{Dataset}
+
+\subsection{Match data}
+
+We will be using the dataset from \url{cricsheet.org}
+
+The data-set provides ball by ball data for matches. The results of the games can be a \emph{win}, \emph{tie} or \emph{no result}. Each YAML file contains data about one game. In case of \emph{no result}, the reason is not provided. Although the \emph{city} where the games took place is present in most files, about 10\% of files do not specify the city. We'll need to manually fill the city by looking at the venue in that case. Some matches span for 2 days. We'll consider only the starting date as our feature for prediction. The data of total 1,164 ODI matches and total 500 T20 matches are present.
+
+
+\subsection{Weather data}
+
+\url{https://www.wunderground.com/history/index.html} provides daily weather data. We can query the data for any city on a particular day using a simple URL change. Then we can parse the information from the website. This allows us to automate the gathering of the data per city, per day and put it as features in our data.
+
+For example, this link gives the weather data for Mumbai on 21 March 2006: \url{https://www.wunderground.com/history/airport/VABB/2006/3/21/DailyHistory.html?req_city=Mumbai&req_state=&req_statename=India&reqdb.zip=00000&reqdb.magic=1&reqdb.wmo=43003}
+
+The website provides following information which is relevant to our project:
+
+\begin{itemize}
+    \item Temperature
+    \item Moisture
+    \item Precipitation
+    \item Sea Level Pressure
+    \item Wind
+\end{itemize}
+
+\section{Implemenation}
+
+We have written code to parse YAML files and produce one CSV file which contains following columns:
+
+\begin{itemize}
+    \item Year : The year of the game
+    \item Month : The month of the game
+    \item Day : The day of the game
+    \item City : The city where the game took place
+    \item Venue : The venue where the game took place
+    \item FirstTeam : The name of the first team.
+    \item SecondTeam : The name of the second team.
+    \item FirstToBat : The team which bats first. 0 : first team, 1: second team
+    \item Result : The result of the game. 0: win, 1: tie, 2: no result
+    \item Winner : The winner team if any.
+\end{itemize}
+
+\begin{figure}
+    \centering
+    \includegraphics[scale=0.5]{Flow.png}
+    \caption{Flow diagram for the project}
+    \label{fig:flow_diagram}
+\end{figure}
+
+We are using a web service to fetch weather data. This service requires location and time. The database contains weather form year 1996. 
+
+We are also using teams current ODI ranking since it is a very good feature. However to get indivisual player's statistics we were not able to find any free API.
+
+For prediction we are using Naive Bayes classifier. Since we have very small data to work with, we chose this classification method.
+
+$\hat{y} = \underset{k \in \{1, \dots, K\}}{\operatorname{argmax}} \ p(C_k) \displaystyle\prod_{i=1}^n p(x_i \vert C_k).$
+\\
+
+$p(C_k \vert \mathbf{x}) = \frac{p(C_k) \ p(\mathbf{x} \vert C_k)}{p(\mathbf{x})} $\\
+
+where:
+\begin{description}
+\item[$\hat{y}$] = Output
+\item[$C_k$] = $k^{th}$ class
+\item[$x_i$] = $i^{th}$ feature
+\item[$p(x_i \vert C_k)$] = likelihood of $x_i$ given $C_k$
+\item[$p(C_k)$] = Prior probability of $C_k$
+\item[$p(C_k \vert \mathbf{x})$] = posterior probability of $C_k$
+\item[$p(\mathbf{x})$] = Evidence 
+\end{description}
+
+
+
+\section{Results}
+
+
+
+\end{itemize}
+
+
+We shall derive inspiration from the following papers\cite{kampakis2015using}\cite{sankaranarayanan2014auto}\cite{kaluarachchi2010cricai}\cite{wiki}:
+
+\renewcommand\refname{Literature Survey}
+\bibliographystyle{plain}
+\bibliography{references}
+\end{document}

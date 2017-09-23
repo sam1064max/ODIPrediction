@@ -1,0 +1,953 @@
+City,Day,FirstTeam,FirstToBat,Month,Result,SecondTeam,Venue,Winner,Year
+Mirpur,7,Bangladesh,0,11,0,Zimbabwe,Shere Bangla National Stadium,0,2015
+Mirpur,11,Bangladesh,0,4,0,Australia,Shere Bangla National Stadium,1,2011
+Mumbai,16,New Zealand,0,10,0,South Africa,Brabourne Stadium,0,2006
+Karachi,16,Pakistan,1,12,0,West Indies,National Stadium,0,2006
+Dubai,30,United Arab Emirates,1,11,0,Afghanistan,ICC Academy,0,2014
+London,5,England,1,9,0,Australia,Lord's,1,2015
+Antigua,28,West Indies,0,2,0,England,"Sir Vivian Richards Stadium, North Sound",0,2014
+Cape Town,2,South Africa,1,12,0,New Zealand,Newlands,0,2007
+Hobart,26,India,1,2,0,Sri Lanka,Bellerive Oval,0,2008
+Jamaica,2,India,1,7,0,Sri Lanka,"Sabina Park, Kingston",1,2013
+Christchurch,11,New Zealand,1,1,0,Sri Lanka,Hagley Oval,0,2015
+Abu Dhabi,31,Pakistan,1,10,0,South Africa,Sheikh Zayed Stadium,0,2010
+Mirpur,1,Bangladesh,1,12,0,Zimbabwe,Shere Bangla National Stadium,0,2014
+Delhi,31,India,1,10,0,Australia,Feroz Shah Kotla,0,2009
+Hambantota,10,Sri Lanka,1,11,0,New Zealand,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",0,2012
+Barbados,28,West Indies,0,4,0,Pakistan,"Kensington Oval, Bridgetown",1,2011
+Brisbane,7,Australia,1,11,0,Sri Lanka,"Brisbane Cricket Ground, Woolloongabba",0,2010
+Mirpur,12,Bangladesh,1,7,0,South Africa,Shere Bangla National Stadium,0,2015
+St Lucia,24,West Indies,0,7,0,Pakistan,"Beausejour Stadium, Gros Islet",1,2013
+Perth,30,England,1,1,0,New Zealand,Western Australia Cricket Association Ground,1,2007
+Dublin,18,Ireland,1,8,0,Netherlands,Clontarf Cricket Club Ground,0,2010
+Barbados,11,Bangladesh,0,4,0,England,"Kensington Oval, Bridgetown",1,2007
+Mirpur,17,Bangladesh,1,6,0,India,Shere Bangla National Stadium,1,2014
+Guyana,20,West Indies,1,3,0,England,Providence Stadium,1,2009
+Colombo,31,Sri Lanka,1,1,2,West Indies,Sinhalese Sports Club Ground,0,2011
+Nairobi,2,Bermuda,1,2,0,Canada,Gymkhana Club Ground,1,2007
+Chandigarh,3,Netherlands,1,3,0,South Africa,"Punjab Cricket Association Stadium, Mohali",1,2011
+Southampton,22,England,1,6,0,Australia,The Rose Bowl,0,2010
+Leeds,22,England,0,8,0,South Africa,Headingley,0,2008
+Manchester,9,England,0,7,0,Sri Lanka,Old Trafford,0,2011
+Mirpur,13,Bangladesh,1,4,0,Australia,Shere Bangla National Stadium,1,2011
+Hambantota,23,Kenya,1,2,0,Pakistan,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",1,2011
+Lahore,20,Pakistan,0,10,0,South Africa,Gaddafi Stadium,0,2007
+Trinidad,17,Bangladesh,1,3,0,India,"Queen's Park Oval, Port of Spain",0,2007
+St Vincent,10,West Indies,0,3,0,Zimbabwe,"Arnos Vale Ground, Kingstown",0,2010
+Jaipur,11,Bangladesh,0,10,0,West Indies,Sawai Mansingh Stadium,1,2006
+Faisalabad,23,Pakistan,1,10,0,South Africa,Iqbal Stadium,0,2007
+Chandigarh,8,India,0,11,0,Pakistan,"Punjab Cricket Association Stadium, Mohali",1,2007
+Guyana,16,West Indies,0,7,0,Pakistan,Providence Stadium,0,2013
+London,9,England,1,9,0,India,Kennington Oval,0,2011
+Nottingham,26,England,1,8,0,South Africa,Trent Bridge,0,2008
+Nairobi,25,Kenya,1,10,0,Bermuda,Gymkhana Club Ground,0,2007
+East London,21,South Africa,1,1,0,West Indies,Buffalo Park,0,2015
+Jaipur,15,India,1,10,0,England,Sawai Mansingh Stadium,0,2006
+London,5,England,0,9,0,India,Kennington Oval,1,2007
+Auckland,31,New Zealand,1,1,0,Pakistan,Eden Park,0,2016
+Dominica,28,West Indies,0,7,0,Bangladesh,"Windsor Park, Roseau",1,2009
+Mirpur,15,Pakistan,1,3,0,Sri Lanka,Shere Bangla National Stadium,0,2012
+Kimberley,20,South Africa,0,1,0,Sri Lanka,De Beers Diamond Oval,1,2012
+Darwin,6,Australia,0,9,0,Bangladesh,Marrara Cricket Ground,0,2008
+Kolkata,13,India,0,11,0,Sri Lanka,Eden Gardens,0,2014
+London,28,England,0,6,0,Sri Lanka,Kennington Oval,0,2011
+Johannesburg,29,England,0,9,0,New Zealand,New Wanderers Stadium,1,2009
+Durban,1,South Africa,1,2,0,West Indies,Kingsmead,0,2008
+Dublin,25,Ireland,1,8,0,England,Clontarf Cricket Club Ground,1,2011
+Manchester,28,England,1,5,0,Sri Lanka,Old Trafford,0,2014
+Ranchi,19,India,1,1,0,England,JSCA International Stadium Complex,0,2013
+Bulawayo,8,Zimbabwe,1,5,0,Bangladesh,Queens Sports Club,0,2013
+Hamilton,8,New Zealand,1,1,0,West Indies,Seddon Park,1,2014
+Ranchi,23,India,1,10,2,Australia,JSCA International Stadium Complex,0,2013
+Cardiff,24,England,0,8,2,South Africa,Sophia Gardens,0,2012
+Jamaica,24,New Zealand,1,4,0,Sri Lanka,"Sabina Park, Kingston",1,2007
+Hobart,23,Australia,0,1,0,Sri Lanka,Bellerive Oval,0,2013
+Perth,31,Australia,1,1,0,Pakistan,Western Australia Cricket Association Ground,0,2010
+Dubai,16,United Arab Emirates,1,11,0,Hong Kong,ICC Academy,1,2015
+Colombo,3,Canada,1,3,0,Pakistan,R Premadasa Stadium,1,2011
+Auckland,28,New Zealand,1,2,0,Australia,Eden Park,0,2015
+Dominica,30,West Indies,0,5,0,South Africa,"Windsor Park, Roseau",1,2010
+Mirpur,5,Bangladesh,0,10,0,New Zealand,Shere Bangla National Stadium,0,2010
+Manchester,28,England,1,6,0,Sri Lanka,Old Trafford,1,2006
+Delhi,11,India,0,10,0,West Indies,Feroz Shah Kotla,0,2014
+Faisalabad,11,Pakistan,1,4,0,Bangladesh,Iqbal Stadium,0,2008
+Cuttack,29,India,1,11,0,West Indies,Barabati Stadium,0,2011
+Delhi,24,South Africa,1,2,0,West Indies,Feroz Shah Kotla,0,2011
+Auckland,6,New Zealand,1,3,0,Australia,Eden Park,1,2010
+St Lucia,25,West Indies,0,4,0,Pakistan,"Beausejour Stadium, Gros Islet",1,2011
+Johannesburg,22,South Africa,0,1,0,Sri Lanka,New Wanderers Stadium,1,2012
+Nagpur,25,Australia,1,2,0,New Zealand,"Vidarbha Cricket Association Stadium, Jamtha",0,2011
+Durban,21,South Africa,0,3,0,Pakistan,Kingsmead,1,2013
+Kochi,21,India,1,11,0,West Indies,Nehru Stadium,0,2013
+Bristol,10,England,1,7,0,Bangladesh,County Ground,1,2010
+St Kitts,6,West Indies,1,7,0,Australia,"Warner Park, Basseterre",1,2008
+Napier,28,New Zealand,0,12,0,Sri Lanka,McLean Park,1,2006
+Centurion,10,South Africa,0,11,0,Zimbabwe,SuperSport Park,0,2009
+Brisbane,14,Australia,0,2,0,West Indies,"Brisbane Cricket Ground, Woolloongabba",0,2010
+Mumbai,5,Australia,1,11,0,West Indies,Brabourne Stadium,0,2006
+London,13,England,0,6,0,Sri Lanka,Kennington Oval,1,2013
+Bulawayo,16,Zimbabwe,1,10,0,Afghanistan,Queens Sports Club,0,2015
+Potchefstroom,17,South Africa,1,10,0,Zimbabwe,Senwes Park,0,2010
+Dubai,11,Canada,0,3,0,Kenya,ICC Global Cricket Academy,1,2013
+Colombo,5,Sri Lanka,0,3,2,Australia,R Premadasa Stadium,0,2011
+Dublin,14,Ireland,0,7,2,West Indies,Clontarf Cricket Club Ground,0,2007
+Johannesburg,30,India,1,9,0,West Indies,New Wanderers Stadium,0,2009
+Durban,16,South Africa,0,1,0,West Indies,Kingsmead,0,2015
+Belfast,6,Ireland,1,9,0,Scotland,"Civil Service Cricket Club, Stormont",0,2013
+Chester-le-Street,10,England,0,9,0,Pakistan,Riverside Ground,0,2010
+Whangarei,6,New Zealand,0,2,0,Zimbabwe,Cobham Oval (New),0,2012
+Nottingham,7,England,1,7,0,West Indies,Trent Bridge,1,2007
+Chennai,22,India,0,10,0,South Africa,"MA Chidambaram Stadium, Chepauk",0,2015
+Barbados,19,West Indies,0,4,0,Bangladesh,"Kensington Oval, Bridgetown",0,2007
+Johannesburg,18,South Africa,0,1,0,West Indies,New Wanderers Stadium,0,2015
+Karachi,2,Pakistan,1,7,0,India,National Stadium,0,2008
+Grenada,22,West Indies,0,2,0,Zimbabwe,"National Cricket Stadium, St George's",0,2013
+Bloemfontein,3,South Africa,1,2,0,England,Mangaung Oval,1,2016
+Mirpur,22,Bangladesh,1,4,0,Pakistan,Shere Bangla National Stadium,0,2015
+Kolkata,3,India,1,1,0,Pakistan,Eden Gardens,1,2013
+Chester-le-Street,24,England,0,6,0,Sri Lanka,Riverside Ground,1,2006
+St Vincent,14,West Indies,1,3,0,Zimbabwe,"Arnos Vale Ground, Kingstown",0,2010
+Mirpur,8,Bangladesh,1,6,0,Pakistan,Shere Bangla National Stadium,1,2008
+Bristol,24,England,1,8,0,India,County Ground,1,2007
+Dunedin,17,New Zealand,1,2,0,Scotland,University Oval,0,2015
+Ranchi,16,India,1,11,0,Sri Lanka,JSCA International Stadium Complex,0,2014
+Benoni,8,Canada,0,4,0,Scotland,Willowmoore Park,0,2009
+Trinidad,12,West Indies,1,4,0,Sri Lanka,"Queen's Park Oval, Port of Spain",0,2008
+Napier,3,New Zealand,1,3,0,India,McLean Park,1,2009
+Canberra,20,Australia,0,1,0,India,Manuka Oval,0,2016
+Mirpur,10,Bangladesh,0,7,0,South Africa,Shere Bangla National Stadium,1,2015
+Barbados,17,England,0,4,0,South Africa,"Kensington Oval, Bridgetown",1,2007
+Auckland,23,New Zealand,0,2,0,England,Eden Park,1,2013
+London,11,India,1,6,0,West Indies,Kennington Oval,0,2013
+Brisbane,19,Australia,1,1,0,England,"Brisbane Cricket Ground, Woolloongabba",0,2007
+Durban,7,South Africa,1,2,0,Pakistan,Kingsmead,1,2007
+Auckland,26,New Zealand,0,12,0,West Indies,Eden Park,1,2013
+London,22,England,0,5,0,Sri Lanka,Kennington Oval,0,2014
+Abu Dhabi,9,New Zealand,0,11,0,Pakistan,Sheikh Zayed Stadium,0,2009
+Colombo,20,Sri Lanka,0,7,0,Bangladesh,P Saravanamuttu Stadium,0,2007
+Durban,22,South Africa,0,11,0,India,Kingsmead,0,2006
+Colombo,24,Sri Lanka,1,8,0,India,R Premadasa Stadium,1,2008
+Cuttack,21,India,1,12,0,Sri Lanka,Barabati Stadium,0,2009
+Grenada,20,West Indies,1,8,0,Bangladesh,"National Cricket Stadium, St George's",0,2014
+Mirpur,14,Bangladesh,0,3,0,South Africa,Shere Bangla National Stadium,1,2008
+Birmingham,12,Australia,0,6,2,New Zealand,Edgbaston,0,2013
+Kolkata,25,India,0,10,0,England,Eden Gardens,0,2011
+Jaipur,21,India,0,2,0,South Africa,Sawai Mansingh Stadium,0,2010
+Mirpur,13,India,0,1,0,Sri Lanka,Shere Bangla National Stadium,1,2010
+Mirpur,4,Bangladesh,0,1,0,Sri Lanka,Shere Bangla National Stadium,1,2010
+Manchester,27,England,1,6,0,Australia,Old Trafford,0,2010
+Chandigarh,27,Pakistan,1,10,0,South Africa,"Punjab Cricket Association Stadium, Mohali",1,2006
+Wellington,12,South Africa,0,3,0,United Arab Emirates,Westpac Stadium,0,2015
+Mirpur,8,Bangladesh,1,12,0,Zimbabwe,Shere Bangla National Stadium,0,2006
+Colombo,19,Sri Lanka,1,7,0,Pakistan,R Premadasa Stadium,1,2015
+Brisbane,22,Australia,1,1,0,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,2010
+Skating and Curling Club,6,Canada,1,9,0,Ireland,Toronto Cricket,0,2010
+Port Elizabeth,29,South Africa,0,11,0,England,St George's Park,1,2009
+Margao,14,India,1,2,0,Sri Lanka,"Nehru Stadium, Fatorda",0,2007
+Christchurch,30,Kenya,0,1,0,Scotland,Hagley Oval,1,2014
+Trinidad,23,India,1,3,0,Sri Lanka,"Queen's Park Oval, Port of Spain",1,2007
+Dunedin,23,New Zealand,0,1,0,Sri Lanka,University Oval,0,2015
+Grenada,10,West Indies,1,4,0,South Africa,"National Cricket Stadium, St George's",1,2007
+Bulawayo,21,Zimbabwe,0,8,0,South Africa,Queens Sports Club,1,2014
+Hobart,18,Australia,0,1,0,South Africa,Bellerive Oval,0,2009
+Colombo,8,Sri Lanka,0,2,0,India,R Premadasa Stadium,0,2009
+Hamilton,3,New Zealand,1,2,0,Pakistan,Seddon Park,1,2011
+Fatullah,3,Bangladesh,1,11,0,New Zealand,Khan Shaheb Osman Ali Stadium,0,2013
+St Lucia,18,Canada,1,3,0,England,"Beausejour Stadium, Gros Islet",1,2007
+Mirpur,10,Bangladesh,0,5,0,India,Shere Bangla National Stadium,1,2007
+Hobart,14,Australia,0,1,0,New Zealand,Bellerive Oval,0,2007
+Abu Dhabi,15,England,0,2,0,Pakistan,Sheikh Zayed Stadium,0,2012
+Chennai,30,India,0,12,0,Pakistan,"MA Chidambaram Stadium, Chepauk",1,2012
+St Lucia,23,West Indies,0,4,0,Pakistan,"Beausejour Stadium, Gros Islet",1,2011
+London,3,England,1,7,0,Australia,Lord's,1,2010
+London,7,Pakistan,0,6,0,West Indies,Kennington Oval,1,2013
+Nelson,16,Ireland,1,2,0,West Indies,Saxton Oval,0,2015
+Wellington,7,New Zealand,1,1,0,West Indies,Westpac Stadium,0,2009
+Ayr,12,Scotland,1,8,2,Kenya,Cambusdoon New Ground,0,2008
+London,20,England,1,6,0,Sri Lanka,Kennington Oval,1,2006
+Southampton,21,England,0,8,0,India,The Rose Bowl,0,2007
+Auckland,6,New Zealand,1,1,0,Sri Lanka,Eden Park,1,2007
+Chandigarh,29,India,0,10,0,Australia,"Punjab Cricket Association Stadium, Mohali",1,2006
+Mirpur,10,India,1,1,0,Sri Lanka,Shere Bangla National Stadium,0,2010
+Delhi,28,Netherlands,1,2,0,West Indies,Feroz Shah Kotla,1,2011
+London,30,England,1,6,0,Australia,Kennington Oval,1,2010
+Dublin,6,Ireland,1,5,0,Sri Lanka,Clontarf Cricket Club Ground,1,2014
+Mirpur,11,Bangladesh,0,11,0,Zimbabwe,Shere Bangla National Stadium,0,2015
+Colombo,19,Australia,0,3,0,Pakistan,R Premadasa Stadium,1,2011
+Delhi,7,Canada,1,3,0,Kenya,Feroz Shah Kotla,0,2011
+Auckland,24,New Zealand,1,3,0,South Africa,Eden Park,0,2015
+St Lucia,15,West Indies,1,4,2,Sri Lanka,"Beausejour Stadium, Gros Islet",0,2008
+Grenada,27,West Indies,1,6,0,Australia,"National Cricket Stadium, St George's",1,2008
+Trinidad,28,West Indies,0,5,0,India,"Queen's Park Oval, Port of Spain",0,2006
+Faisalabad,30,Pakistan,1,1,0,Zimbabwe,Iqbal Stadium,0,2008
+Brisbane,21,India,1,2,0,Sri Lanka,"Brisbane Cricket Ground, Woolloongabba",1,2012
+Cardiff,30,England,0,8,2,Pakistan,Sophia Gardens,0,2006
+London,31,England,0,5,0,New Zealand,Lord's,1,2013
+Chennai,20,India,0,3,0,West Indies,"MA Chidambaram Stadium, Chepauk",0,2011
+Rajkot,11,India,1,2,0,Sri Lanka,Madhavrao Scindia Cricket Ground,1,2007
+Mirpur,19,Bangladesh,1,2,0,India,Shere Bangla National Stadium,1,2011
+Bulawayo,19,Zimbabwe,1,8,0,South Africa,Queens Sports Club,1,2014
+Bangalore,6,Africa XI,1,6,0,Asia XI,M Chinnaswamy Stadium,1,2007
+Chennai,9,Africa XI,1,6,0,Asia XI,"MA Chidambaram Stadium, Chepauk",1,2007
+Nairobi,13,Kenya,0,8,0,Bangladesh,Gymkhana Club Ground,1,2006
+Colombo,14,Sri Lanka,1,9,0,India,R Premadasa Stadium,1,2009
+Southampton,9,England,0,9,0,Australia,The Rose Bowl,1,2009
+Abu Dhabi,8,Pakistan,1,11,0,South Africa,Sheikh Zayed Stadium,1,2013
+Leeds,1,England,0,7,0,Sri Lanka,Headingley,1,2006
+Ahmedabad,24,South Africa,0,10,0,Sri Lanka,"Sardar Patel Stadium, Motera",0,2006
+Grenada,22,West Indies,0,8,0,Bangladesh,"National Cricket Stadium, St George's",0,2014
+Dublin,26,Ireland,0,5,0,Pakistan,Clontarf Cricket Club Ground,1,2013
+Guyana,28,South Africa,1,3,0,Sri Lanka,Providence Stadium,0,2007
+Dublin,20,Ireland,0,9,0,Canada,Clontarf Cricket Club Ground,0,2011
+Antigua,8,Australia,1,4,0,England,"Sir Vivian Richards Stadium, North Sound",0,2007
+Guyana,1,West Indies,1,4,0,Sri Lanka,Providence Stadium,1,2007
+Mirpur,21,Bangladesh,1,6,0,India,Shere Bangla National Stadium,0,2015
+Abu Dhabi,27,Australia,0,4,0,Pakistan,Sheikh Zayed Stadium,0,2009
+Mirpur,15,Bangladesh,0,10,0,West Indies,Shere Bangla National Stadium,1,2011
+Guyana,30,England,0,3,0,Ireland,Providence Stadium,0,2007
+Colombo,7,Sri Lanka,1,12,0,England,R Premadasa Stadium,0,2014
+Wellington,22,New Zealand,1,1,0,Pakistan,Westpac Stadium,0,2011
+Mirpur,16,Bangladesh,1,3,0,India,Shere Bangla National Stadium,0,2012
+Auckland,15,New Zealand,0,2,0,England,Eden Park,1,2008
+Mirpur,8,Bangladesh,1,12,0,West Indies,Shere Bangla National Stadium,0,2012
+Bristol,24,England,1,5,0,West Indies,County Ground,0,2009
+Southampton,16,England,1,9,0,Australia,The Rose Bowl,1,2013
+Chester-le-Street,7,England,1,7,0,Australia,Riverside Ground,0,2012
+Chittagong,21,Bangladesh,0,11,0,Zimbabwe,Zahur Ahmed Chowdhury Stadium,0,2014
+London,4,England,1,9,0,Australia,Kennington Oval,1,2009
+Mumbai,13,Canada,1,3,0,New Zealand,Wankhede Stadium,1,2011
+Karachi,21,Pakistan,1,1,0,Sri Lanka,National Stadium,1,2009
+Wellington,31,New Zealand,1,1,0,Pakistan,Westpac Stadium,0,2015
+Bulawayo,19,Zimbabwe,0,8,0,Bangladesh,Queens Sports Club,1,2011
+Perth,10,Australia,0,2,0,Sri Lanka,Western Australia Cricket Association Ground,0,2012
+Chester-le-Street,25,England,1,5,0,Sri Lanka,Riverside Ground,1,2014
+Mumbai,18,New Zealand,1,3,0,Sri Lanka,Wankhede Stadium,1,2011
+Mirpur,19,Bangladesh,1,6,2,India,Shere Bangla National Stadium,0,2014
+Dunedin,22,Afghanistan,0,2,0,Sri Lanka,University Oval,1,2015
+Hobart,21,Australia,0,1,0,England,Bellerive Oval,0,2011
+Hamilton,17,New Zealand,1,2,0,England,Seddon Park,0,2013
+Toronto,19,Canada,1,8,0,Kenya,Maple Leaf North-West Ground,0,2009
+Dominica,26,West Indies,1,7,0,Bangladesh,"Windsor Park, Roseau",1,2009
+St Lucia,21,West Indies,0,7,0,Pakistan,"Beausejour Stadium, Gros Islet",1,2013
+Colombo,28,Sri Lanka,0,7,0,India,R Premadasa Stadium,1,2012
+Nelson,4,New Zealand,0,1,0,West Indies,Saxton Oval,0,2014
+Antigua,4,England,1,4,0,Sri Lanka,"Sir Vivian Richards Stadium, North Sound",1,2007
+Nairobi,5,Kenya,0,2,0,Canada,Jaffery Sports Club Ground,0,2007
+Southampton,6,England,1,9,0,India,The Rose Bowl,0,2011
+Paarl,19,South Africa,0,1,0,New Zealand,Boland Park,1,2013
+Mirpur,19,Bangladesh,1,4,0,Pakistan,Shere Bangla National Stadium,0,2015
+Mumbai,17,India,1,10,0,Australia,Wankhede Stadium,0,2007
+Hambantota,12,Sri Lanka,0,11,0,New Zealand,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",1,2013
+Christchurch,8,New Zealand,1,3,0,India,AMI Stadium,1,2009
+Brisbane,17,Australia,1,1,0,England,"Brisbane Cricket Ground, Woolloongabba",0,2014
+St Kitts,11,West Indies,1,7,0,New Zealand,"Warner Park, Basseterre",1,2012
+Hobart,14,Australia,1,3,0,Scotland,Bellerive Oval,0,2015
+Bulawayo,28,Zimbabwe,1,5,0,India,Queens Sports Club,0,2010
+Dubai,8,Afghanistan,1,1,0,Scotland,ICC Academy,0,2015
+Chandigarh,11,Ireland,1,3,0,West Indies,"Punjab Cricket Association Stadium, Mohali",1,2011
+Hamilton,11,New Zealand,0,3,0,India,Seddon Park,1,2009
+Birmingham,8,England,0,6,0,Australia,Edgbaston,0,2013
+Mirpur,14,Bangladesh,1,1,0,Sri Lanka,Shere Bangla National Stadium,0,2009
+Canberra,18,Afghanistan,1,2,0,Bangladesh,Manuka Oval,1,2015
+Belfast,13,Netherlands,1,7,2,Scotland,"Civil Service Cricket Club, Stormont",0,2007
+Dublin,17,Ireland,1,6,0,Australia,Clontarf Cricket Club Ground,1,2010
+Ayr,17,Scotland,1,8,0,Afghanistan,Cambusdoon New Ground,0,2010
+Bangalore,27,India,0,2,1,England,M Chinnaswamy Stadium,0,2011
+Abu Dhabi,13,England,0,2,0,Pakistan,Sheikh Zayed Stadium,0,2012
+Christchurch,11,New Zealand,1,2,0,Bangladesh,AMI Stadium,0,2010
+Nelson,20,New Zealand,1,1,0,Sri Lanka,Saxton Oval,0,2015
+Kimberley,22,South Africa,1,1,0,New Zealand,De Beers Diamond Oval,1,2013
+Potchefstroom,20,South Africa,0,9,0,Zimbabwe,Sedgars Park,0,2006
+Centurion,22,South Africa,0,11,0,England,SuperSport Park,1,2009
+Grenada,18,Ireland,0,4,0,Sri Lanka,"National Cricket Stadium, St George's",1,2007
+Mirpur,31,Bangladesh,0,10,0,New Zealand,Shere Bangla National Stadium,0,2013
+Wellington,16,New Zealand,1,2,0,Australia,Westpac Stadium,0,2007
+Guyana,7,Bangladesh,0,4,0,South Africa,Providence Stadium,0,2007
+Brisbane,19,Australia,0,2,0,India,"Brisbane Cricket Ground, Woolloongabba",0,2012
+Manchester,30,England,1,8,0,India,Old Trafford,0,2007
+St Lucia,3,West Indies,1,4,0,England,"Beausejour Stadium, Gros Islet",1,2009
+Port Elizabeth,9,South Africa,1,2,2,Pakistan,St George's Park,0,2007
+Visakhapatnam,17,India,1,2,0,Sri Lanka,Andhra Cricket Association-Visakhapatnam District Cricket Association Stadium,0,2007
+Lahore,25,Bangladesh,1,6,0,Sri Lanka,Gaddafi Stadium,1,2008
+Mirpur,11,Bangladesh,1,10,0,New Zealand,Shere Bangla National Stadium,0,2010
+Mirpur,11,Bangladesh,1,3,0,Pakistan,Shere Bangla National Stadium,1,2012
+Abu Dhabi,25,Pakistan,1,12,0,Sri Lanka,Sheikh Zayed Stadium,0,2013
+Paarl,11,South Africa,0,1,0,Sri Lanka,Boland Park,0,2012
+Bloemfontein,10,South Africa,0,3,0,Pakistan,Chevrolet Park,0,2013
+Ahmedabad,8,West Indies,1,10,0,Zimbabwe,"Sardar Patel Stadium, Motera",0,2006
+Leeds,1,England,1,7,0,Sri Lanka,Headingley,1,2011
+Trinidad,6,West Indies,0,6,0,India,"Queen's Park Oval, Port of Spain",1,2011
+Mirpur,17,Bangladesh,0,4,0,Pakistan,Shere Bangla National Stadium,0,2015
+Lahore,24,Bangladesh,0,6,0,United Arab Emirates,Gaddafi Stadium,0,2008
+Mirpur,17,Bangladesh,0,10,0,New Zealand,Shere Bangla National Stadium,0,2010
+Kuala Lumpur,2,Afghanistan,0,5,0,United Arab Emirates,Kinrara Academy Oval,0,2014
+Bangalore,2,England,0,3,0,Ireland,M Chinnaswamy Stadium,1,2011
+Trinidad,25,Bangladesh,1,3,0,Bermuda,"Queen's Park Oval, Port of Spain",0,2007
+Mirpur,3,Bangladesh,1,12,0,Pakistan,Shere Bangla National Stadium,1,2011
+Bulawayo,1,Zimbabwe,0,8,0,India,Queens Sports Club,1,2013
+Chester-le-Street,15,England,0,6,0,New Zealand,Riverside Ground,0,2008
+Colombo,31,Sri Lanka,1,1,0,India,R Premadasa Stadium,1,2009
+Christchurch,21,Pakistan,1,2,0,West Indies,Hagley Oval,1,2015
+Vadodara,11,India,0,10,0,Australia,Reliance Stadium,1,2007
+Bloemfontein,31,South Africa,0,10,0,Kenya,OUTsurance Oval,0,2008
+Hambantota,10,Sri Lanka,0,11,2,New Zealand,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",0,2013
+Colombo,3,Sri Lanka,1,2,0,West Indies,Sinhalese Sports Club Ground,0,2011
+Colombo,31,Sri Lanka,0,7,0,India,R Premadasa Stadium,1,2012
+Karachi,29,Pakistan,1,6,0,Sri Lanka,National Stadium,1,2008
+Kochi,2,India,1,10,0,Australia,Nehru Stadium,1,2007
+Mirpur,24,Bangladesh,1,6,0,India,Shere Bangla National Stadium,1,2015
+Trinidad,8,West Indies,0,6,0,India,"Queen's Park Oval, Port of Spain",1,2011
+Chennai,20,Kenya,0,2,0,New Zealand,"MA Chidambaram Stadium, Chepauk",1,2011
+Chandigarh,1,Australia,0,11,0,New Zealand,"Punjab Cricket Association Stadium, Mohali",0,2006
+Trinidad,3,West Indies,0,6,0,South Africa,"Queen's Park Oval, Port of Spain",1,2010
+Manchester,10,England,1,7,0,Australia,Old Trafford,0,2012
+Centurion,15,South Africa,0,3,0,Pakistan,SuperSport Park,1,2013
+Nagpur,12,India,0,3,0,South Africa,"Vidarbha Cricket Association Stadium, Jamtha",1,2011
+Bangalore,2,India,0,11,0,Australia,M Chinnaswamy Stadium,0,2013
+Lahore,29,Pakistan,1,5,0,Zimbabwe,Gaddafi Stadium,0,2015
+Benoni,2,Bermuda,1,12,0,Netherlands,Willowmoore Park,0,2006
+Jamaica,28,West Indies,1,6,0,Sri Lanka,"Sabina Park, Kingston",0,2013
+Centurion,30,Australia,1,9,0,Pakistan,SuperSport Park,0,2009
+Vadodara,4,India,1,12,0,New Zealand,Reliance Stadium,0,2010
+Port Elizabeth,6,South Africa,0,2,0,England,St George's Park,1,2016
+Bristol,21,England,1,6,0,New Zealand,County Ground,1,2008
+Antigua,5,West Indies,1,3,0,England,"Sir Vivian Richards Stadium, North Sound",1,2014
+Abu Dhabi,23,Pakistan,1,11,0,Sri Lanka,Sheikh Zayed Stadium,0,2011
+Mirpur,6,Bangladesh,0,12,0,Zimbabwe,Shere Bangla National Stadium,0,2010
+Cardiff,14,South Africa,0,6,1,West Indies,Sophia Gardens,0,2013
+Chandigarh,7,Bangladesh,1,10,0,Sri Lanka,"Punjab Cricket Association Stadium, Mohali",1,2006
+Johannesburg,3,South Africa,1,2,0,West Indies,New Wanderers Stadium,0,2008
+Colombo,23,Sri Lanka,1,7,0,Bangladesh,R Premadasa Stadium,0,2007
+Auckland,14,India,1,3,0,Zimbabwe,Eden Park,0,2015
+Chandigarh,2,India,1,11,0,Australia,"Punjab Cricket Association Stadium, Mohali",1,2009
+Christchurch,2,New Zealand,1,1,0,Sri Lanka,Jade Stadium,0,2007
+Hambantota,26,Sri Lanka,0,7,0,Pakistan,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",0,2015
+Mirpur,7,Bangladesh,0,1,0,India,Shere Bangla National Stadium,1,2010
+Bangalore,13,Australia,0,3,0,Kenya,M Chinnaswamy Stadium,0,2011
+London,31,England,1,8,0,South Africa,Kennington Oval,0,2012
+Nagpur,14,India,1,10,0,Australia,Vidarbha Cricket Association Ground,1,2007
+Faisalabad,7,Pakistan,1,12,0,West Indies,Iqbal Stadium,0,2006
+Bangalore,23,India,0,11,0,England,M Chinnaswamy Stadium,0,2008
+Abu Dhabi,1,Australia,1,5,0,Pakistan,Sheikh Zayed Stadium,0,2009
+Colombo,5,Sri Lanka,1,2,0,India,R Premadasa Stadium,1,2009
+Napier,19,New Zealand,0,1,0,India,McLean Park,0,2014
+Bulawayo,9,Zimbabwe,0,8,0,Bangladesh,Queens Sports Club,1,2009
+Chennai,10,Africa XI,1,6,0,Asia XI,"MA Chidambaram Stadium, Chepauk",1,2007
+Lahore,26,Sri Lanka,0,6,0,United Arab Emirates,Gaddafi Stadium,0,2008
+Mirpur,17,Bangladesh,1,2,0,Sri Lanka,Shere Bangla National Stadium,1,2014
+Karachi,24,Pakistan,0,6,0,Hong Kong,National Stadium,0,2008
+Perth,6,Australia,0,2,0,England,Western Australia Cricket Association Ground,0,2011
+Dublin,29,Netherlands,0,7,0,Scotland,Clontarf Cricket Club Ground,1,2008
+Brisbane,15,Australia,1,1,0,India,"Brisbane Cricket Ground, Woolloongabba",0,2016
+Cardiff,16,England,1,9,0,India,Sophia Gardens,0,2011
+Jaipur,17,Pakistan,1,10,0,Sri Lanka,Sawai Mansingh Stadium,0,2006
+Hobart,16,England,1,1,0,New Zealand,Bellerive Oval,0,2007
+Mirpur,8,Bangladesh,0,1,0,Sri Lanka,Shere Bangla National Stadium,1,2010
+Dublin,23,Ireland,1,5,1,Pakistan,Clontarf Cricket Club Ground,0,2013
+Barbados,21,West Indies,0,4,0,England,"Kensington Oval, Bridgetown",1,2007
+Durban,25,South Africa,1,11,0,New Zealand,Kingsmead,0,2007
+Darwin,30,Australia,0,8,0,Bangladesh,Marrara Cricket Ground,0,2008
+Cardiff,16,England,0,6,0,New Zealand,Sophia Gardens,0,2013
+Mirpur,15,Bangladesh,0,6,0,India,Shere Bangla National Stadium,1,2014
+Barbados,27,West Indies,1,3,0,England,"Kensington Oval, Bridgetown",0,2009
+Cardiff,24,England,1,6,0,Australia,Sophia Gardens,0,2010
+Mumbai,14,Sri Lanka,1,10,0,West Indies,Brabourne Stadium,0,2006
+Napier,8,New Zealand,1,3,0,Afghanistan,McLean Park,0,2015
+Fatullah,26,Bangladesh,0,2,0,India,Khan Shaheb Osman Ali Stadium,1,2014
+Nairobi,31,Kenya,0,1,0,Zimbabwe,Gymkhana Club Ground,1,2009
+Kanpur,20,India,1,11,0,England,Green Park,0,2008
+Hamilton,9,New Zealand,0,3,0,Australia,Seddon Park,1,2010
+Guyana,14,West Indies,1,7,0,Pakistan,Providence Stadium,1,2013
+London,1,England,1,7,0,Australia,Kennington Oval,0,2012
+Cardiff,20,India,1,6,0,Sri Lanka,Sophia Gardens,0,2013
+Bloemfontein,17,South Africa,1,1,0,Sri Lanka,Chevrolet Park,0,2012
+Bulawayo,16,Zimbabwe,0,8,0,Bangladesh,Queens Sports Club,1,2009
+London,11,England,1,9,1,India,Lord's,0,2011
+Hambantota,3,Sri Lanka,0,12,0,England,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",1,2014
+Kolkata,20,Kenya,1,3,0,Zimbabwe,Eden Gardens,1,2011
+Bangalore,29,India,1,9,2,Australia,M Chinnaswamy Stadium,0,2007
+Mirpur,31,Bangladesh,1,10,0,Zimbabwe,Shere Bangla National Stadium,0,2009
+Jamaica,5,West Indies,1,7,0,New Zealand,"Sabina Park, Kingston",0,2012
+Bangalore,16,Australia,1,3,0,Canada,M Chinnaswamy Stadium,0,2011
+Perth,4,Australia,0,3,0,Afghanistan,Western Australia Cricket Association Ground,0,2015
+Mirpur,8,Pakistan,0,3,0,Sri Lanka,Shere Bangla National Stadium,1,2014
+Jaipur,13,Bangladesh,0,10,0,Zimbabwe,Sawai Mansingh Stadium,0,2006
+Mount Maunganui,5,New Zealand,0,1,0,Sri Lanka,Bay Oval,0,2016
+Cape Town,25,South Africa,0,1,0,West Indies,Newlands,0,2008
+St Vincent,12,West Indies,1,3,0,Zimbabwe,"Arnos Vale Ground, Kingstown",0,2010
+Colombo,12,Sri Lanka,0,9,0,India,R Premadasa Stadium,0,2009
+Bulawayo,8,Zimbabwe,1,9,0,Pakistan,Queens Sports Club,1,2011
+Centurion,30,South Africa,1,11,0,Pakistan,SuperSport Park,0,2013
+Southampton,22,England,0,9,0,Pakistan,The Rose Bowl,0,2010
+Jamaica,21,Pakistan,0,3,0,Zimbabwe,"Sabina Park, Kingston",0,2007
+Auckland,7,Pakistan,0,3,0,South Africa,Eden Park,0,2015
+Kuala Lumpur,14,India,0,9,0,West Indies,Kinrara Academy Oval,1,2006
+Brisbane,20,England,1,1,0,India,"Brisbane Cricket Ground, Woolloongabba",0,2015
+Grenada,29,West Indies,0,6,0,Australia,"National Cricket Stadium, St George's",1,2008
+Hobart,23,Australia,1,1,0,England,Bellerive Oval,0,2015
+Kolkata,24,India,1,12,0,Sri Lanka,Eden Gardens,0,2009
+Mirpur,9,Bangladesh,1,4,0,Australia,Shere Bangla National Stadium,1,2011
+Jamaica,15,Ireland,0,3,1,Zimbabwe,"Sabina Park, Kingston",0,2007
+Visakhapatnam,2,India,1,12,0,West Indies,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,0,2011
+Chittagong,5,Bangladesh,1,11,0,Zimbabwe,Zohur Ahmed Chowdhury Stadium,0,2009
+Chester-le-Street,20,England,1,9,0,Australia,Riverside Ground,0,2009
+Nagpur,30,India,1,10,0,Australia,"Vidarbha Cricket Association Stadium, Jamtha",0,2013
+Chittagong,23,Bangladesh,0,11,0,Zimbabwe,Zahur Ahmed Chowdhury Stadium,0,2014
+Dunedin,25,New Zealand,0,1,0,Sri Lanka,University Oval,0,2015
+Barbados,29,West Indies,0,3,0,England,"Kensington Oval, Bridgetown",1,2009
+Kuala Lumpur,16,Australia,0,9,2,India,Kinrara Academy Oval,0,2006
+Bulawayo,7,Zimbabwe,0,12,0,West Indies,Queens Sports Club,1,2007
+Mirpur,13,Bangladesh,1,10,0,West Indies,Shere Bangla National Stadium,1,2011
+Trinidad,19,Bermuda,1,3,0,India,"Queen's Park Oval, Port of Spain",1,2007
+Mirpur,25,Bangladesh,0,2,0,Ireland,Shere Bangla National Stadium,0,2011
+Hyderabad,9,India,1,11,0,Sri Lanka,"Rajiv Gandhi International Stadium, Uppal",0,2014
+Johannesburg,14,South Africa,1,2,0,Pakistan,New Wanderers Stadium,0,2007
+Belfast,25,Ireland,0,8,2,Kenya,"Civil Service Cricket Club, Stormont",0,2008
+Karachi,20,Pakistan,1,1,0,Sri Lanka,National Stadium,0,2009
+Cardiff,9,New Zealand,1,6,0,Sri Lanka,Sophia Gardens,0,2013
+Trinidad,21,Bangladesh,1,3,0,Sri Lanka,"Queen's Park Oval, Port of Spain",1,2007
+Bulawayo,5,Zimbabwe,1,5,0,Bangladesh,Queens Sports Club,0,2013
+Hambantota,23,Sri Lanka,0,8,0,Pakistan,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",1,2014
+Karachi,30,Bangladesh,1,6,0,Sri Lanka,National Stadium,1,2008
+St Lucia,25,West Indies,1,3,0,Australia,"Beausejour Stadium, Gros Islet",1,2012
+King City,29,Canada,1,6,0,Bermuda,Maple Leaf North-West Ground,1,2008
+Hambantota,24,Sri Lanka,1,7,0,India,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",0,2012
+Jamaica,30,West Indies,1,6,0,India,"Sabina Park, Kingston",0,2013
+Colombo,22,Sri Lanka,0,7,0,Pakistan,R Premadasa Stadium,1,2015
+Chittagong,11,Bangladesh,1,3,0,England,Zahur Ahmed Chowdhury Stadium,0,2011
+Gwalior,15,India,1,11,0,Pakistan,Captain Roop Singh Stadium,0,2007
+Antigua,29,West Indies,0,3,0,New Zealand,"Sir Vivian Richards Stadium, North Sound",1,2007
+Benoni,24,South Africa,1,3,0,Pakistan,Willowmoore Park,0,2013
+Bloemfontein,15,South Africa,0,10,0,Zimbabwe,OUTsurance Oval,0,2010
+St Lucia,5,West Indies,0,7,2,India,"Beausejour Stadium, Gros Islet",0,2009
+Karachi,25,Hong Kong,1,6,0,India,National Stadium,1,2008
+Napier,9,New Zealand,0,2,0,Zimbabwe,McLean Park,0,2012
+Mirpur,20,Bangladesh,1,2,0,Sri Lanka,Shere Bangla National Stadium,1,2014
+Trinidad,11,India,1,7,0,Sri Lanka,"Queen's Park Oval, Port of Spain",0,2013
+Mirpur,3,Bangladesh,1,12,0,Zimbabwe,Shere Bangla National Stadium,0,2010
+Grenada,14,New Zealand,1,4,0,South Africa,"National Cricket Stadium, St George's",0,2007
+Chittagong,6,Bangladesh,1,12,0,Pakistan,Zahur Ahmed Chowdhury Stadium,1,2011
+Abu Dhabi,12,Australia,0,10,0,Pakistan,Sheikh Zayed Stadium,0,2014
+Grenada,26,West Indies,1,2,0,Zimbabwe,"National Cricket Stadium, St George's",0,2013
+Southampton,16,England,0,6,0,West Indies,The Rose Bowl,0,2012
+Southampton,28,England,1,8,0,South Africa,The Rose Bowl,1,2012
+Bogra,5,Bangladesh,0,12,0,Zimbabwe,Shaheed Chandu Stadium,0,2006
+Cape Town,14,South Africa,1,2,0,England,Newlands,0,2016
+Lahore,8,Pakistan,0,4,0,Bangladesh,Gaddafi Stadium,0,2008
+Brisbane,5,India,0,2,2,Sri Lanka,"Brisbane Cricket Ground, Woolloongabba",0,2008
+Nelson,2,New Zealand,0,1,2,Sri Lanka,Saxton Oval,0,2016
+Lincoln,23,Kenya,1,1,0,Netherlands,Bert Sutcliffe Oval,0,2014
+Abu Dhabi,29,Pakistan,0,10,0,South Africa,Sheikh Zayed Stadium,1,2010
+Bulawayo,22,Zimbabwe,0,8,0,South Africa,Queens Sports Club,1,2007
+London,17,England,1,6,0,Sri Lanka,Lord's,1,2006
+Mirpur,25,New Zealand,0,3,0,South Africa,Shere Bangla National Stadium,0,2011
+Guwahati,8,India,0,11,0,Australia,Nehru Stadium,1,2009
+Barbados,15,Bangladesh,1,4,0,Ireland,"Kensington Oval, Bridgetown",1,2007
+Leeds,12,England,1,9,0,Pakistan,Headingley,0,2010
+Mirpur,5,India,0,1,0,Sri Lanka,Shere Bangla National Stadium,1,2010
+Trinidad,26,West Indies,1,5,0,India,"Queen's Park Oval, Port of Spain",0,2006
+Hamilton,8,New Zealand,0,2,0,Australia,Seddon Park,0,2016
+Fatullah,25,Pakistan,1,2,0,Sri Lanka,Khan Shaheb Osman Ali Stadium,1,2014
+King City,29,Canada,0,8,0,Netherlands,Maple Leaf North-West Ground,1,2013
+Christchurch,14,New Zealand,0,2,0,Sri Lanka,Hagley Oval,0,2015
+Belfast,29,India,1,6,0,South Africa,"Civil Service Cricket Club, Stormont",0,2007
+Nottingham,5,England,0,9,0,South Africa,Trent Bridge,1,2012
+Hamilton,28,New Zealand,1,1,0,India,Seddon Park,0,2014
+Colombo,18,Sri Lanka,1,6,0,Pakistan,R Premadasa Stadium,0,2012
+Centurion,20,South Africa,1,1,0,West Indies,SuperSport Park,0,2008
+Antigua,22,West Indies,1,5,0,South Africa,"Sir Vivian Richards Stadium, North Sound",1,2010
+Birmingham,4,England,1,7,0,West Indies,Edgbaston,1,2007
+Durban,8,South Africa,0,12,0,India,Kingsmead,0,2013
+Dublin,31,Ireland,1,7,0,Scotland,Clontarf Cricket Club Ground,0,2008
+Hamilton,15,South Africa,0,2,0,Zimbabwe,Seddon Park,0,2015
+Birmingham,2,England,0,9,0,India,Edgbaston,1,2014
+Nairobi,4,Bermuda,0,2,0,Netherlands,Ruaraka Sports Club Ground,1,2007
+Canberra,6,Australia,0,2,0,West Indies,Manuka Oval,0,2013
+Wellington,9,New Zealand,1,2,0,England,Westpac Stadium,0,2008
+Port Elizabeth,30,South Africa,0,11,0,New Zealand,St George's Park,1,2007
+London,8,England,1,9,0,India,Lord's,0,2007
+Colombo,13,Sri Lanka,1,6,2,Pakistan,R Premadasa Stadium,0,2012
+Nairobi,4,Kenya,1,2,0,Scotland,Gymkhana Club Ground,1,2007
+Port Elizabeth,21,South Africa,0,1,0,India,St George's Park,0,2011
+Jamaica,17,Ireland,1,3,0,Pakistan,"Sabina Park, Kingston",0,2007
+Hyderabad,5,India,1,11,0,Australia,"Rajiv Gandhi International Stadium, Uppal",1,2009
+Brisbane,13,Australia,0,2,2,New Zealand,"Brisbane Cricket Ground, Woolloongabba",0,2009
+Birmingham,9,England,0,6,0,New Zealand,Edgbaston,0,2015
+Guyana,6,West Indies,1,3,0,Zimbabwe,Providence Stadium,0,2010
+London,20,England,1,9,0,Pakistan,Lord's,1,2010
+Johannesburg,5,South Africa,0,12,0,India,New Wanderers Stadium,0,2013
+Colombo,29,Sri Lanka,0,8,0,India,R Premadasa Stadium,0,2008
+Birmingham,26,England,0,5,0,West Indies,Edgbaston,0,2009
+Rajkot,15,India,0,12,0,Sri Lanka,Madhavrao Scindia Cricket Ground,0,2009
+Colombo,16,Sri Lanka,0,6,0,Pakistan,R Premadasa Stadium,0,2012
+St Vincent,20,West Indies,1,3,1,Australia,"Arnos Vale Ground, Kingstown",0,2012
+Karachi,26,Pakistan,0,6,0,India,National Stadium,1,2008
+St Kitts,31,West Indies,0,7,0,Bangladesh,"Warner Park, Basseterre",1,2009
+Colombo,20,Sri Lanka,0,8,0,Australia,R Premadasa Stadium,1,2011
+Lahore,13,Pakistan,0,4,0,Bangladesh,Gaddafi Stadium,0,2008
+Hambantota,12,Sri Lanka,0,11,2,New Zealand,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",0,2012
+Benoni,1,Ireland,1,4,0,Scotland,Willowmoore Park,0,2009
+Hyderabad,14,India,0,10,0,England,"Rajiv Gandhi International Stadium, Uppal",0,2011
+Canberra,24,West Indies,0,2,0,Zimbabwe,Manuka Oval,0,2015
+St Lucia,16,England,0,3,0,New Zealand,"Beausejour Stadium, Gros Islet",1,2007
+Perth,15,Australia,0,2,0,Sri Lanka,Western Australia Cricket Association Ground,0,2008
+Napier,20,New Zealand,0,2,0,England,McLean Park,1,2013
+Perth,12,Australia,1,1,0,India,Western Australia Cricket Association Ground,0,2016
+Perth,28,India,1,2,0,United Arab Emirates,Western Australia Cricket Association Ground,0,2015
+Nottingham,17,England,1,6,0,New Zealand,Trent Bridge,0,2015
+Barbados,13,Australia,1,4,0,Ireland,"Kensington Oval, Bridgetown",0,2007
+Chandigarh,20,India,1,10,0,England,"Punjab Cricket Association Stadium, Mohali",0,2011
+Aberdeen,9,Scotland,1,5,0,England,Mannofield Park,1,2014
+Colombo,3,Sri Lanka,1,2,0,India,R Premadasa Stadium,1,2009
+Lahore,31,Pakistan,0,5,2,Zimbabwe,Gaddafi Stadium,0,2015
+Cuttack,26,India,1,11,0,England,Barabati Stadium,0,2008
+Lahore,29,Pakistan,1,10,0,South Africa,Gaddafi Stadium,1,2007
+Indore,8,India,0,12,0,West Indies,Holkar Cricket Stadium,0,2011
+Kuala Lumpur,22,Australia,0,9,0,India,Kinrara Academy Oval,0,2006
+Mirpur,12,Bangladesh,0,6,0,India,Shere Bangla National Stadium,1,2008
+Potchefstroom,27,Bermuda,0,11,0,Canada,Sedgars Park,1,2006
+Mirpur,28,Bangladesh,0,11,0,Zimbabwe,Shere Bangla National Stadium,0,2014
+Potchefstroom,23,South Africa,0,8,0,New Zealand,Senwes Park,1,2015
+Visakhapatnam,24,India,0,11,0,West Indies,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,1,2013
+Centurion,3,South Africa,1,12,0,India,SuperSport Park,0,2006
+Bulawayo,3,Zimbabwe,1,5,0,Bangladesh,Queens Sports Club,1,2013
+Ahmedabad,5,India,1,12,0,West Indies,"Sardar Patel Stadium, Motera",1,2011
+Hobart,7,Ireland,0,3,0,Zimbabwe,Bellerive Oval,0,2015
+Jamaica,19,West Indies,1,3,0,Zimbabwe,"Sabina Park, Kingston",0,2007
+Auckland,25,New Zealand,0,1,1,India,Eden Park,0,2014
+Mirpur,23,Pakistan,1,3,0,West Indies,Shere Bangla National Stadium,0,2011
+Hamilton,15,New Zealand,0,1,0,Sri Lanka,Seddon Park,1,2015
+Abu Dhabi,27,Pakistan,0,12,0,Sri Lanka,Sheikh Zayed Stadium,1,2013
+East London,18,South Africa,1,9,0,Zimbabwe,Buffalo Park,0,2006
+Bogra,3,Bangladesh,1,12,0,Zimbabwe,Shaheed Chandu Stadium,0,2006
+Nottingham,17,England,1,9,0,Australia,Trent Bridge,1,2009
+Belfast,13,Ireland,1,6,0,England,"Civil Service Cricket Club, Stormont",1,2006
+London,25,England,0,6,0,New Zealand,Kennington Oval,1,2008
+Kochi,8,India,1,10,0,West Indies,Nehru Stadium,1,2014
+Mirpur,12,Bangladesh,1,5,0,India,Shere Bangla National Stadium,1,2007
+Karachi,3,India,1,7,0,Sri Lanka,National Stadium,0,2008
+Auckland,26,New Zealand,1,12,0,Bangladesh,Eden Park,0,2007
+Nelson,19,United Arab Emirates,0,2,0,Zimbabwe,Saxton Oval,1,2015
+Kanpur,11,India,0,11,0,Pakistan,Green Park,0,2007
+Ahmedabad,4,New Zealand,1,3,0,Zimbabwe,"Sardar Patel Stadium, Motera",0,2011
+Perth,6,India,1,3,0,West Indies,Western Australia Cricket Association Ground,0,2015
+Johannesburg,15,South Africa,1,1,0,India,New Wanderers Stadium,1,2011
+Wellington,6,New Zealand,0,2,0,Australia,Westpac Stadium,1,2016
+Wellington,21,New Zealand,0,3,0,West Indies,Westpac Stadium,0,2015
+Port Elizabeth,25,South Africa,0,1,0,West Indies,St George's Park,1,2015
+Dominica,28,West Indies,1,5,0,South Africa,"Windsor Park, Roseau",1,2010
+Jaipur,18,India,1,11,0,Pakistan,Sawai Mansingh Stadium,1,2007
+Auckland,11,New Zealand,0,3,0,Australia,Eden Park,1,2010
+Belfast,23,Ireland,0,6,0,India,"Civil Service Cricket Club, Stormont",1,2007
+Bulawayo,18,Zimbabwe,0,8,0,Bangladesh,Queens Sports Club,1,2009
+Napier,3,New Zealand,0,2,0,Pakistan,McLean Park,0,2015
+Wellington,25,New Zealand,0,2,0,South Africa,Westpac Stadium,1,2012
+Centurion,24,South Africa,1,9,0,New Zealand,SuperSport Park,0,2009
+Mirpur,29,Bangladesh,1,10,0,Zimbabwe,Shere Bangla National Stadium,0,2009
+Nelson,31,New Zealand,0,12,0,Sri Lanka,Saxton Oval,1,2015
+Guyana,4,West Indies,1,3,0,Zimbabwe,Providence Stadium,1,2010
+Bulawayo,17,Zimbabwe,1,8,0,South Africa,Queens Sports Club,1,2014
+St Kitts,22,Netherlands,1,3,0,Scotland,"Warner Park, Basseterre",0,2007
+St Kitts,16,West Indies,0,7,0,New Zealand,"Warner Park, Basseterre",0,2012
+Amstelveen,7,Canada,0,7,0,Ireland,VRA Ground,1,2010
+Birmingham,18,England,0,6,2,New Zealand,Edgbaston,0,2008
+Karachi,4,Pakistan,1,7,0,Bangladesh,National Stadium,0,2008
+Ahmedabad,24,India,1,3,0,Australia,"Sardar Patel Stadium, Motera",0,2011
+Birmingham,23,England,1,6,0,India,Edgbaston,1,2013
+Mumbai,2,India,1,4,0,Sri Lanka,Wankhede Stadium,0,2011
+Colombo,9,Sri Lanka,1,8,0,Pakistan,R Premadasa Stadium,1,2009
+Colombo,6,Sri Lanka,0,2,0,West Indies,Sinhalese Sports Club Ground,0,2011
+Kuala Lumpur,20,India,0,9,0,West Indies,Kinrara Academy Oval,0,2006
+Trinidad,15,Bermuda,1,3,0,Sri Lanka,"Queen's Park Oval, Port of Spain",1,2007
+Kuala Lumpur,18,Australia,0,9,0,West Indies,Kinrara Academy Oval,1,2006
+Mirpur,29,Bangladesh,0,10,0,New Zealand,Shere Bangla National Stadium,0,2013
+Cardiff,27,England,1,8,0,India,Sophia Gardens,1,2014
+Dublin,3,Ireland,0,9,0,England,"The Village, Malahide",1,2013
+Mount Maunganui,21,New Zealand,0,10,0,South Africa,Bay Oval,1,2014
+Dharmasala,17,India,0,10,0,West Indies,Himachal Pradesh Cricket Association Stadium,0,2014
+Manchester,13,England,0,9,0,Australia,Old Trafford,1,2015
+Centurion,28,South Africa,0,1,0,West Indies,SuperSport Park,0,2015
+Abu Dhabi,3,Australia,0,5,0,Pakistan,Sheikh Zayed Stadium,1,2009
+Khulna,2,Bangladesh,0,12,0,West Indies,Sheikh Abu Naser Stadium,0,2012
+Auckland,3,New Zealand,0,3,0,South Africa,Eden Park,1,2012
+Bulawayo,20,Zimbabwe,1,7,0,Afghanistan,Queens Sports Club,0,2014
+Edinburgh,17,Scotland,1,5,0,Pakistan,"Grange Cricket Club Ground, Raeburn Place",1,2013
+Johannesburg,25,England,1,9,0,Sri Lanka,New Wanderers Stadium,0,2009
+Auckland,3,New Zealand,0,2,0,Australia,Eden Park,0,2016
+Belfast,16,Ireland,0,7,0,Bangladesh,"Civil Service Cricket Club, Stormont",1,2010
+Durban,28,South Africa,0,10,0,Australia,Kingsmead,1,2011
+Khulna,30,Bangladesh,1,11,0,West Indies,Sheikh Abu Naser Stadium,0,2012
+Guyana,5,West Indies,1,5,0,Pakistan,Providence Stadium,0,2011
+Belfast,23,Ireland,0,6,2,Australia,"Civil Service Cricket Club, Stormont",0,2012
+Dharamsala,27,India,0,1,0,England,Himachal Pradesh Cricket Association Stadium,1,2013
+Karachi,21,Pakistan,0,1,0,Zimbabwe,National Stadium,0,2008
+Nairobi,18,Kenya,1,10,0,Canada,Gymkhana Club Ground,0,2007
+Guwahati,28,India,0,11,0,New Zealand,Nehru Stadium,0,2010
+Dublin,8,Ireland,0,5,2,England,"The Village, Malahide",0,2015
+Benoni,8,South Africa,0,11,0,Zimbabwe,Willowmoore Park,0,2009
+Mirpur,2,Bangladesh,0,3,0,England,Shere Bangla National Stadium,1,2010
+Dublin,10,Ireland,1,9,0,Scotland,"The Village, Malahide",0,2014
+Durban,3,South Africa,1,4,0,Australia,Kingsmead,1,2009
+Grenada,20,Australia,0,4,0,New Zealand,"National Cricket Stadium, St George's",0,2007
+Colombo,26,Sri Lanka,1,2,0,Pakistan,R Premadasa Stadium,1,2011
+Pune,13,India,1,10,0,Australia,Maharashtra Cricket Association Stadium,1,2013
+Lahore,24,Pakistan,1,1,0,Sri Lanka,Gaddafi Stadium,1,2009
+Hamilton,20,New Zealand,1,2,0,Australia,Seddon Park,0,2007
+Mirpur,22,Bangladesh,1,3,0,Pakistan,Shere Bangla National Stadium,1,2012
+Jaipur,1,India,1,12,0,New Zealand,Sawai Mansingh Stadium,0,2010
+Colombo,8,Sri Lanka,0,9,0,New Zealand,R Premadasa Stadium,0,2009
+Johannesburg,26,Australia,0,9,0,West Indies,New Wanderers Stadium,0,2009
+Ahmedabad,26,India,0,10,0,West Indies,"Sardar Patel Stadium, Motera",1,2006
+London,3,England,0,7,0,Sri Lanka,Lord's,1,2011
+Jamaica,28,West Indies,1,6,0,India,"Sabina Park, Kingston",0,2009
+Leeds,2,England,1,9,0,India,Headingley,1,2007
+Mumbai,18,Australia,1,10,0,West Indies,Brabourne Stadium,1,2006
+London,29,England,0,8,0,South Africa,Kennington Oval,0,2008
+Nottingham,30,England,0,8,0,India,Trent Bridge,1,2014
+Nottingham,8,England,1,9,0,Pakistan,Trent Bridge,0,2006
+Canberra,3,Ireland,1,3,0,South Africa,Manuka Oval,1,2015
+St Lucia,24,England,1,3,0,Kenya,"Beausejour Stadium, Gros Islet",0,2007
+St Kitts,20,Scotland,0,3,0,South Africa,"Warner Park, Basseterre",1,2007
+Hambantota,21,Sri Lanka,1,7,0,India,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",1,2012
+Bulawayo,24,Zimbabwe,1,7,0,Afghanistan,Queens Sports Club,1,2014
+Port Elizabeth,27,South Africa,1,1,0,West Indies,St George's Park,0,2008
+Perth,14,Australia,0,11,0,South Africa,Western Australia Cricket Association Ground,0,2014
+Delhi,9,India,1,3,0,Netherlands,Feroz Shah Kotla,0,2011
+Dublin,19,Ireland,0,9,0,Canada,Clontarf Cricket Club Ground,0,2011
+Sind,24,Pakistan,1,1,0,Zimbabwe,"Niaz Stadium, Hyderabad",0,2008
+Visakhapatnam,20,India,1,10,0,Australia,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,0,2010
+Nagpur,28,Canada,1,2,0,Zimbabwe,"Vidarbha Cricket Association Stadium, Jamtha",1,2011
+Colombo,31,Sri Lanka,0,7,0,South Africa,R Premadasa Stadium,0,2013
+Mirpur,1,Bangladesh,1,12,0,Zimbabwe,Shere Bangla National Stadium,1,2010
+Trinidad,9,India,0,7,0,Sri Lanka,"Queen's Park Oval, Port of Spain",0,2013
+Colombo,1,Sri Lanka,1,11,0,West Indies,R Premadasa Stadium,0,2015
+Colombo,16,Sri Lanka,0,12,0,England,R Premadasa Stadium,0,2014
+Mirpur,5,Afghanistan,0,3,0,India,Shere Bangla National Stadium,1,2014
+Nagpur,22,England,1,2,0,Netherlands,"Vidarbha Cricket Association Stadium, Jamtha",0,2011
+St Lucia,3,West Indies,0,7,0,India,"Beausejour Stadium, Gros Islet",1,2009
+Christchurch,23,New Zealand,1,2,0,England,AMI Stadium,0,2008
+Trinidad,5,West Indies,1,7,0,India,"Queen's Park Oval, Port of Spain",1,2013
+Birmingham,10,England,1,9,0,Pakistan,Edgbaston,0,2006
+Dubai,28,United Arab Emirates,1,11,0,Afghanistan,ICC Academy,0,2014
+Brisbane,18,Australia,0,1,0,Sri Lanka,"Brisbane Cricket Ground, Woolloongabba",1,2013
+Port Elizabeth,13,South Africa,0,4,0,Australia,St George's Park,0,2009
+Cardiff,6,India,0,6,0,South Africa,Sophia Gardens,0,2013
+Antigua,24,West Indies,1,5,0,South Africa,"Sir Vivian Richards Stadium, North Sound",1,2010
+Durban,12,South Africa,0,1,0,India,Kingsmead,0,2011
+Antigua,31,Australia,1,3,0,Bangladesh,"Sir Vivian Richards Stadium, North Sound",0,2007
+Darwin,3,Australia,1,9,0,Bangladesh,Marrara Cricket Ground,0,2008
+Hamilton,27,New Zealand,1,10,2,South Africa,Seddon Park,0,2014
+Chandigarh,8,India,0,10,0,Australia,Sector 16 Stadium,0,2007
+Guwahati,5,India,1,11,0,Pakistan,Nehru Stadium,0,2007
+Abu Dhabi,14,Pakistan,0,11,0,West Indies,Sheikh Zayed Stadium,0,2008
+Brisbane,4,Australia,1,3,0,India,"Brisbane Cricket Ground, Woolloongabba",1,2008
+Napier,15,United Arab Emirates,0,3,0,West Indies,McLean Park,1,2015
+Centurion,27,South Africa,1,9,0,England,SuperSport Park,1,2009
+Ahmedabad,10,Sri Lanka,0,10,0,Zimbabwe,"Sardar Patel Stadium, Motera",0,2006
+Bulawayo,18,Zimbabwe,1,10,0,Afghanistan,Queens Sports Club,1,2015
+Birmingham,3,England,0,6,0,Sri Lanka,Edgbaston,1,2014
+St Lucia,19,West Indies,1,7,1,Pakistan,"Beausejour Stadium, Gros Islet",0,2013
+Dunedin,3,New Zealand,0,2,0,Zimbabwe,University Oval,0,2012
+Chennai,11,India,0,12,0,West Indies,"MA Chidambaram Stadium, Chepauk",0,2011
+Perth,1,Australia,1,2,0,West Indies,Western Australia Cricket Association Ground,0,2013
+London,12,England,1,6,0,New Zealand,Kennington Oval,1,2015
+Ahmedabad,6,India,1,11,0,Sri Lanka,"Sardar Patel Stadium, Motera",0,2014
+Nairobi,20,Kenya,1,10,0,Canada,Gymkhana Club Ground,0,2007
+Benoni,30,Bermuda,0,11,0,Canada,Willowmoore Park,1,2006
+Chittagong,14,Bangladesh,1,3,0,Netherlands,Zahur Ahmed Chowdhury Stadium,0,2011
+Chittagong,12,Bangladesh,1,12,0,Zimbabwe,Zahur Ahmed Chowdhury Stadium,0,2010
+Colombo,11,India,1,9,0,New Zealand,R Premadasa Stadium,0,2009
+Centurion,2,Australia,1,10,0,England,SuperSport Park,0,2009
+Colombo,10,Sri Lanka,0,10,0,England,R Premadasa Stadium,1,2007
+Colombo,23,Sri Lanka,0,7,0,South Africa,R Premadasa Stadium,0,2013
+Delhi,17,India,1,10,0,England,Feroz Shah Kotla,0,2011
+Potchefstroom,25,South Africa,1,1,0,New Zealand,Senwes Park,0,2013
+Leeds,11,England,1,9,0,Australia,Headingley,0,2015
+Canberra,19,Australia,0,11,0,South Africa,Manuka Oval,0,2014
+Port Elizabeth,29,South Africa,0,11,0,India,St George's Park,0,2006
+Abu Dhabi,13,England,0,11,0,Pakistan,Sheikh Zayed Stadium,0,2015
+London,2,England,0,9,0,Pakistan,Lord's,1,2006
+London,19,England,1,6,0,West Indies,Kennington Oval,0,2012
+Bulawayo,22,Zimbabwe,0,7,0,Afghanistan,Queens Sports Club,1,2014
+Mirpur,28,Bangladesh,0,2,0,England,Shere Bangla National Stadium,1,2010
+London,6,England,1,9,0,Australia,Lord's,1,2009
+Centurion,26,India,1,9,0,Pakistan,SuperSport Park,1,2009
+Barbados,2,West Indies,1,5,0,Pakistan,"Kensington Oval, Bridgetown",0,2011
+Wellington,6,New Zealand,1,3,2,India,Westpac Stadium,0,2009
+Jamaica,26,West Indies,1,6,0,India,"Sabina Park, Kingston",1,2009
+Perth,30,England,1,1,0,India,Western Australia Cricket Association Ground,0,2015
+Brisbane,1,Pakistan,0,3,0,Zimbabwe,"Brisbane Cricket Ground, Woolloongabba",0,2015
+Jaipur,16,India,1,10,0,Australia,Sawai Mansingh Stadium,0,2013
+Nairobi,28,Kenya,1,10,0,Bermuda,Gymkhana Club Ground,0,2007
+Antigua,2,West Indies,0,3,0,England,"Sir Vivian Richards Stadium, North Sound",1,2014
+Chandigarh,23,India,1,1,0,England,"Punjab Cricket Association Stadium, Mohali",0,2013
+Colombo,6,Sri Lanka,1,7,0,South Africa,R Premadasa Stadium,1,2014
+Glasgow,16,Scotland,0,8,0,India,Titwood,1,2007
+Aberdeen,29,Scotland,1,6,0,Netherlands,Mannofield Park,0,2011
+Ahmedabad,27,India,1,2,0,South Africa,"Sardar Patel Stadium, Motera",1,2010
+Brisbane,4,Australia,0,3,0,Sri Lanka,"Brisbane Cricket Ground, Woolloongabba",0,2012
+Mirpur,3,Afghanistan,1,3,0,Sri Lanka,Shere Bangla National Stadium,1,2014
+Hyderabad,5,India,1,10,0,Australia,"Rajiv Gandhi International Stadium, Uppal",1,2007
+Johannesburg,17,South Africa,1,4,0,Australia,New Wanderers Stadium,1,2009
+Indore,14,India,0,10,0,South Africa,Holkar Cricket Stadium,0,2015
+Mirpur,13,India,0,3,0,Sri Lanka,Shere Bangla National Stadium,0,2012
+Fatullah,27,Afghanistan,1,2,0,Pakistan,Khan Shaheb Osman Ali Stadium,1,2014
+Antigua,2,Bangladesh,0,4,0,New Zealand,"Sir Vivian Richards Stadium, North Sound",1,2007
+Indore,17,India,0,11,0,England,Maharani Usharaje Trust Cricket Ground,0,2008
+Brisbane,6,England,0,2,0,New Zealand,"Brisbane Cricket Ground, Woolloongabba",0,2007
+Colombo,29,Sri Lanka,1,3,0,New Zealand,R Premadasa Stadium,0,2011
+Centurion,23,South Africa,0,1,0,India,SuperSport Park,0,2011
+Lahore,10,Pakistan,1,12,0,West Indies,Gaddafi Stadium,0,2006
+Napier,3,New Zealand,1,3,0,Australia,McLean Park,0,2010
+Mumbai,20,New Zealand,0,10,0,Sri Lanka,Brabourne Stadium,1,2006
+Southampton,2,England,1,6,0,New Zealand,The Rose Bowl,1,2013
+Grenada,12,New Zealand,0,4,0,Sri Lanka,"National Cricket Stadium, St George's",1,2007
+Lahore,18,Pakistan,1,10,0,South Africa,Gaddafi Stadium,1,2007
+Wellington,25,New Zealand,0,1,0,Pakistan,Basin Reserve,0,2016
+Chandigarh,19,India,0,10,0,Australia,"Punjab Cricket Association Stadium, Mohali",1,2013
+Cape Town,9,South Africa,0,4,0,Australia,Newlands,0,2009
+Cape Town,18,South Africa,0,1,0,India,Newlands,1,2011
+Ahmedabad,28,England,1,10,0,West Indies,"Sardar Patel Stadium, Motera",0,2006
+Colombo,20,Sri Lanka,0,7,0,South Africa,R Premadasa Stadium,0,2013
+Perth,24,Australia,1,1,0,England,Western Australia Cricket Association Ground,1,2014
+Perth,16,Australia,0,11,0,South Africa,Western Australia Cricket Association Ground,1,2014
+Bulawayo,11,Zimbabwe,1,8,0,Bangladesh,Queens Sports Club,1,2009
+Antigua,11,West Indies,0,6,0,India,"Sir Vivian Richards Stadium, North Sound",1,2011
+London,17,England,1,9,0,Pakistan,Kennington Oval,1,2010
+Bulawayo,25,Zimbabwe,1,10,0,New Zealand,Queens Sports Club,0,2011
+Bloemfontein,15,South Africa,1,9,0,Zimbabwe,Goodyear Park,0,2006
+London,17,Australia,1,6,0,Sri Lanka,Kennington Oval,1,2013
+Nairobi,12,Kenya,0,8,0,Bangladesh,Gymkhana Club Ground,1,2006
+Hobart,28,India,1,2,0,Sri Lanka,Bellerive Oval,0,2012
+Bulawayo,1,Zimbabwe,0,6,0,Sri Lanka,Queens Sports Club,1,2010
+Bulawayo,14,Zimbabwe,0,8,0,Bangladesh,Queens Sports Club,0,2009
+Mirpur,12,Bangladesh,0,3,0,South Africa,Shere Bangla National Stadium,1,2008
+Centurion,4,South Africa,0,2,0,Pakistan,SuperSport Park,0,2007
+Gwalior,24,India,0,2,0,South Africa,Captain Roop Singh Stadium,0,2010
+London,28,England,1,6,0,New Zealand,Lord's,1,2008
+Chennai,27,India,0,1,0,West Indies,"MA Chidambaram Stadium, Chepauk",1,2007
+Christchurch,23,Canada,1,1,0,Scotland,Hagley Oval,1,2014
+Karachi,19,Pakistan,0,4,0,Bangladesh,National Stadium,0,2008
+Chennai,10,India,1,12,0,New Zealand,"MA Chidambaram Stadium, Chepauk",0,2010
+Manchester,8,England,0,9,0,Australia,Old Trafford,0,2015
+Port Elizabeth,23,South Africa,0,10,0,Australia,St George's Park,0,2011
+Abu Dhabi,14,Afghanistan,1,1,0,Scotland,Sheikh Zayed Stadium,1,2015
+Fatullah,28,India,0,2,0,Sri Lanka,Khan Shaheb Osman Ali Stadium,1,2014
+Mirpur,11,Bangladesh,0,1,0,India,Shere Bangla National Stadium,1,2010
+St Kitts,25,West Indies,0,8,0,Bangladesh,"Warner Park, Basseterre",0,2014
+Perth,29,Australia,0,1,0,Pakistan,Western Australia Cricket Association Ground,0,2010
+Colombo,22,Sri Lanka,1,8,0,Australia,R Premadasa Stadium,0,2011
+London,2,England,1,9,0,South Africa,Lord's,0,2012
+Auckland,14,New Zealand,1,3,0,India,Eden Park,0,2009
+Hambantota,25,Sri Lanka,0,3,2,Bangladesh,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",0,2013
+Johannesburg,27,New Zealand,0,9,0,Sri Lanka,New Wanderers Stadium,0,2009
+Brisbane,25,Ireland,1,2,0,United Arab Emirates,"Brisbane Cricket Ground, Woolloongabba",0,2015
+Dublin,12,Ireland,0,9,0,Scotland,"The Village, Malahide",1,2014
+Guyana,3,Ireland,0,4,0,South Africa,Providence Stadium,1,2007
+Birmingham,10,Pakistan,1,6,0,South Africa,Edgbaston,1,2013
+Dublin,8,Ireland,1,9,0,Scotland,"The Village, Malahide",0,2014
+Kuala Lumpur,24,Australia,0,9,0,West Indies,Kinrara Academy Oval,0,2006
+Belfast,27,Ireland,1,8,0,Australia,"Civil Service Cricket Club, Stormont",1,2015
+Fatullah,1,Bangladesh,1,3,0,Afghanistan,Khan Shaheb Osman Ali Stadium,1,2014
+London,19,England,1,6,0,South Africa,Kennington Oval,0,2013
+Mirpur,10,India,0,6,0,Pakistan,Shere Bangla National Stadium,0,2008
+Port Elizabeth,27,South Africa,1,11,0,Pakistan,St George's Park,1,2013
+Rajkot,18,India,1,10,0,South Africa,Saurashtra Cricket Association Stadium,1,2015
+Napier,4,Pakistan,0,3,0,United Arab Emirates,McLean Park,0,2015
+Centurion,19,South Africa,0,8,0,New Zealand,SuperSport Park,0,2015
+Nairobi,17,Ireland,1,10,0,Zimbabwe,Gymkhana Club Ground,1,2008
+Mirpur,4,Bangladesh,0,3,0,West Indies,Shere Bangla National Stadium,1,2011
+Napier,5,New Zealand,0,2,0,Bangladesh,McLean Park,0,2010
+St Kitts,23,West Indies,1,5,0,India,"Warner Park, Basseterre",0,2006
+Bangalore,7,India,1,12,0,New Zealand,M Chinnaswamy Stadium,0,2010
+Barbados,28,Australia,0,4,0,Sri Lanka,"Kensington Oval, Bridgetown",0,2007
+Dublin,5,Ireland,0,7,0,Afghanistan,Clontarf Cricket Club Ground,0,2012
+Abu Dhabi,6,Pakistan,1,11,0,South Africa,Sheikh Zayed Stadium,1,2013
+Hobart,24,Australia,0,2,0,Sri Lanka,Bellerive Oval,1,2012
+Mirpur,14,Bangladesh,0,10,0,New Zealand,Shere Bangla National Stadium,0,2010
+Cape Town,24,South Africa,1,11,0,Pakistan,Newlands,1,2013
+Abu Dhabi,3,New Zealand,1,11,0,Pakistan,Sheikh Zayed Stadium,1,2009
+Christchurch,26,New Zealand,1,12,0,Sri Lanka,Hagley Oval,0,2015
+Hamilton,22,New Zealand,0,1,0,India,Seddon Park,0,2014
+Belfast,26,India,0,6,0,South Africa,"Civil Service Cricket Club, Stormont",1,2007
+Christchurch,28,New Zealand,1,12,0,Sri Lanka,Hagley Oval,0,2015
+Napier,20,New Zealand,1,2,1,England,McLean Park,0,2008
+Mumbai,23,India,1,10,0,England,Wankhede Stadium,0,2011
+Centurion,28,Australia,0,9,2,India,SuperSport Park,0,2009
+Hambantota,23,Sri Lanka,1,3,0,Bangladesh,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",0,2013
+Nottingham,8,England,1,7,0,Bangladesh,Trent Bridge,0,2010
+St Lucia,23,West Indies,0,3,0,Australia,"Beausejour Stadium, Gros Islet",0,2012
+Centurion,9,South Africa,1,2,0,England,SuperSport Park,0,2016
+Perth,30,Australia,1,1,0,South Africa,Western Australia Cricket Association Ground,1,2009
+St Kitts,14,Australia,0,3,0,Scotland,"Warner Park, Basseterre",0,2007
+Jamaica,13,West Indies,0,3,0,Pakistan,"Sabina Park, Kingston",0,2007
+Nagpur,28,India,0,10,0,Australia,"Vidarbha Cricket Association Stadium, Jamtha",0,2009
+Cape Town,26,South Africa,0,11,0,India,Newlands,0,2006
+Hambantota,14,Sri Lanka,0,8,0,Australia,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",1,2011
+Rajkot,11,India,1,1,0,England,Saurashtra Cricket Association Stadium,1,2013
+Abu Dhabi,6,New Zealand,0,11,0,Pakistan,Sheikh Zayed Stadium,0,2009
+Auckland,17,New Zealand,0,1,2,Sri Lanka,Eden Park,0,2015
+Jamaica,23,West Indies,1,2,0,Ireland,"Sabina Park, Kingston",0,2014
+Rajkot,14,India,0,11,0,England,Madhavrao Scindia Cricket Ground,0,2008
+Mirpur,9,Bangladesh,0,11,0,Zimbabwe,Shere Bangla National Stadium,0,2015
+Colombo,27,Sri Lanka,1,8,0,India,R Premadasa Stadium,1,2008
+East London,14,South Africa,1,1,0,Sri Lanka,Buffalo Park,0,2012
+Mirpur,18,Bangladesh,0,6,0,India,Shere Bangla National Stadium,0,2015
+Cuttack,2,India,0,11,0,Sri Lanka,Barabati Stadium,0,2014
+Wellington,31,New Zealand,0,1,0,India,Westpac Stadium,0,2014
+Chester-le-Street,20,England,1,6,0,New Zealand,Riverside Ground,0,2015
+Jamaica,23,West Indies,1,3,0,Ireland,"Sabina Park, Kingston",0,2007
+Dunedin,8,New Zealand,1,2,0,Bangladesh,University Oval,0,2010
+Mirpur,23,Bangladesh,1,1,0,Zimbabwe,Shere Bangla National Stadium,0,2009
+Chittagong,18,Bangladesh,1,10,0,West Indies,Zahur Ahmed Chowdhury Stadium,0,2011
+Grenada,16,Australia,1,4,0,Sri Lanka,"National Cricket Stadium, St George's",0,2007
+Centurion,11,South Africa,0,12,2,India,SuperSport Park,0,2013
+Brisbane,3,Australia,1,2,2,India,"Brisbane Cricket Ground, Woolloongabba",0,2008
+Chennai,6,England,0,3,0,South Africa,"MA Chidambaram Stadium, Chepauk",0,2011
+Hambantota,12,Sri Lanka,1,7,0,South Africa,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",1,2014
+Colombo,25,Sri Lanka,0,7,0,Bangladesh,R Premadasa Stadium,0,2007
+Centurion,5,South Africa,1,4,0,Australia,SuperSport Park,0,2009
+Nottingham,5,England,0,6,0,New Zealand,Trent Bridge,0,2013
+Johannesburg,12,South Africa,1,2,0,England,New Wanderers Stadium,0,2016
+St Vincent,16,West Indies,1,3,0,Australia,"Arnos Vale Ground, Kingstown",1,2012
+Abu Dhabi,12,Pakistan,1,11,0,West Indies,Sheikh Zayed Stadium,0,2008
+Hamilton,12,New Zealand,1,2,0,England,Seddon Park,0,2008
+Christchurch,23,England,0,2,0,Scotland,Hagley Oval,0,2015
+Auckland,5,New Zealand,0,2,0,Pakistan,Eden Park,0,2011
+Bulawayo,22,Zimbabwe,0,10,0,Afghanistan,Queens Sports Club,1,2015
+Birmingham,15,India,1,6,0,Pakistan,Edgbaston,0,2013
+St Vincent,18,West Indies,1,3,0,Australia,"Arnos Vale Ground, Kingstown",0,2012
+St Lucia,22,Canada,1,3,0,New Zealand,"Beausejour Stadium, Gros Islet",1,2007
+Colombo,4,Sri Lanka,1,11,0,West Indies,R Premadasa Stadium,0,2015
+St Lucia,25,Australia,1,4,0,South Africa,"Beausejour Stadium, Gros Islet",0,2007
+Benoni,1,Canada,0,12,0,Netherlands,Willowmoore Park,1,2006
+Durban,26,South Africa,0,8,0,New Zealand,Kingsmead,0,2015
+Auckland,18,New Zealand,1,2,0,Australia,Eden Park,0,2007
+Perth,28,Australia,0,1,0,New Zealand,Western Australia Cricket Association Ground,0,2007
+Centurion,19,South Africa,1,10,0,Australia,SuperSport Park,1,2011
+Abu Dhabi,19,New Zealand,0,12,0,Pakistan,Sheikh Zayed Stadium,0,2014
+Nottingham,15,England,0,9,0,Australia,Trent Bridge,1,2009
+Benoni,22,South Africa,0,10,0,Zimbabwe,Willowmoore Park,0,2010
+Guyana,9,Ireland,1,4,0,New Zealand,Providence Stadium,1,2007
+Centurion,22,South Africa,1,9,0,Sri Lanka,SuperSport Park,1,2009
+Chittagong,3,Bangladesh,1,11,0,Zimbabwe,Zohur Ahmed Chowdhury Stadium,0,2009
+Abu Dhabi,11,England,0,11,0,Pakistan,Sheikh Zayed Stadium,1,2015
+Karachi,6,India,1,7,0,Sri Lanka,National Stadium,1,2008
+Hambantota,16,Sri Lanka,0,8,0,Australia,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",0,2011
+Chandigarh,25,New Zealand,0,10,0,Pakistan,"Punjab Cricket Association Stadium, Mohali",0,2006
+Kuala Lumpur,4,Hong Kong,0,5,0,United Arab Emirates,Kinrara Academy Oval,1,2014
+Hamilton,13,New Zealand,1,3,0,Bangladesh,Seddon Park,0,2015
+Dunedin,26,Afghanistan,1,2,0,Scotland,University Oval,0,2015
+Mirpur,6,Bangladesh,0,3,0,Sri Lanka,Shere Bangla National Stadium,1,2014
+Abu Dhabi,31,Australia,0,8,0,Pakistan,Sheikh Zayed Stadium,1,2012
+Birmingham,12,England,0,7,0,Bangladesh,Edgbaston,0,2010
+Guyana,22,West Indies,0,3,0,England,Providence Stadium,0,2009
+Benoni,19,Afghanistan,0,4,0,Scotland,Willowmoore Park,0,2009
+London,31,England,1,8,0,South Africa,Lord's,0,2008
+Mount Maunganui,24,New Zealand,1,10,0,South Africa,Bay Oval,1,2014
+Jamaica,16,West Indies,1,6,0,India,"Sabina Park, Kingston",0,2011
+Mirpur,10,Bangladesh,1,1,0,Zimbabwe,Shere Bangla National Stadium,1,2009
+Mirpur,14,India,1,6,0,Pakistan,Shere Bangla National Stadium,1,2008
+Colombo,29,Sri Lanka,1,11,0,England,R Premadasa Stadium,0,2014
+Mirpur,20,Bangladesh,1,3,0,Sri Lanka,Shere Bangla National Stadium,0,2012
+Mirpur,2,India,0,3,0,Pakistan,Shere Bangla National Stadium,1,2014
+Mirpur,9,Bangladesh,1,12,0,Zimbabwe,Shere Bangla National Stadium,0,2006
+Mirpur,7,Bangladesh,1,12,0,West Indies,Shere Bangla National Stadium,1,2012
+Bulawayo,21,Zimbabwe,1,8,0,Bangladesh,Queens Sports Club,1,2011
+Perth,1,Australia,0,2,0,New Zealand,Western Australia Cricket Association Ground,1,2009
+St Kitts,4,West Indies,1,7,0,Australia,"Warner Park, Basseterre",1,2008
+Perth,8,India,1,2,0,Sri Lanka,Western Australia Cricket Association Ground,0,2012
+Napier,29,New Zealand,0,2,0,South Africa,McLean Park,1,2012
+Wellington,13,New Zealand,0,3,0,Australia,Westpac Stadium,0,2010
+St Kitts,16,Netherlands,1,3,0,South Africa,"Warner Park, Basseterre",1,2007
+Delhi,6,India,0,1,0,Pakistan,Feroz Shah Kotla,0,2013
+Kanpur,27,India,1,11,0,West Indies,Green Park,0,2013
+Birmingham,11,England,0,9,2,Australia,Edgbaston,0,2013
+Perth,1,Australia,0,2,0,England,Western Australia Cricket Association Ground,0,2015
+Wellington,29,New Zealand,1,1,0,Sri Lanka,Westpac Stadium,1,2015
+Mirpur,26,Bangladesh,0,11,0,Zimbabwe,Shere Bangla National Stadium,0,2014
+Bulawayo,3,Zimbabwe,0,8,0,India,Queens Sports Club,1,2013
+Johannesburg,23,Pakistan,1,9,0,West Indies,New Wanderers Stadium,0,2009
+Mirpur,1,Bangladesh,0,12,0,Pakistan,Shere Bangla National Stadium,1,2011
+Colombo,7,Sri Lanka,1,8,0,Pakistan,R Premadasa Stadium,1,2009
+Colombo,13,Sri Lanka,0,10,0,England,R Premadasa Stadium,0,2007
+Cardiff,14,England,1,9,0,Australia,Sophia Gardens,0,2013
+Christchurch,29,New Zealand,1,1,0,Pakistan,AMI Stadium,1,2011
+Belfast,24,Ireland,1,6,0,South Africa,"Civil Service Cricket Club, Stormont",1,2007
+St Kitts,14,West Indies,0,7,0,New Zealand,"Warner Park, Basseterre",0,2012
+St Kitts,18,Australia,0,3,0,Netherlands,"Warner Park, Basseterre",0,2007
+Cape Town,11,South Africa,1,2,0,Pakistan,Newlands,0,2007
+Southampton,14,England,0,6,0,New Zealand,The Rose Bowl,1,2015
+Colombo,26,Sri Lanka,0,11,0,England,R Premadasa Stadium,0,2014
+Vadodara,25,India,1,10,0,Australia,Reliance Stadium,1,2009
+Amstelveen,7,Netherlands,1,7,0,Ireland,VRA Ground,1,2013
+Mirpur,5,Bangladesh,0,12,0,West Indies,Shere Bangla National Stadium,1,2012
+Centurion,5,Australia,1,10,0,New Zealand,SuperSport Park,0,2009
+Cardiff,3,England,1,9,2,South Africa,Sophia Gardens,0,2008
+Chandigarh,30,India,0,3,0,Pakistan,"Punjab Cricket Association Stadium, Mohali",0,2011
+Mirpur,19,Bangladesh,1,3,0,South Africa,Shere Bangla National Stadium,1,2011
+Delhi,27,India,1,12,2,Sri Lanka,Feroz Shah Kotla,0,2009
+London,1,England,0,7,0,West Indies,Lord's,0,2007
+Mirpur,4,Bangladesh,0,3,0,Pakistan,Shere Bangla National Stadium,1,2014
+Mirpur,27,Bangladesh,0,10,0,Zimbabwe,Shere Bangla National Stadium,1,2009
+Nottingham,6,England,1,7,0,Sri Lanka,Trent Bridge,0,2011
+Bulawayo,30,India,1,5,0,Sri Lanka,Queens Sports Club,0,2010
+Kanpur,11,India,1,10,0,South Africa,Green Park,1,2015
+Hobart,20,Australia,0,12,0,New Zealand,Bellerive Oval,0,2007
+St Vincent,24,West Indies,1,6,0,Australia,"Arnos Vale Ground, Kingstown",1,2008
+Jamaica,7,West Indies,0,7,0,New Zealand,"Sabina Park, Kingston",0,2012
+Nairobi,15,Kenya,0,8,0,Bangladesh,Gymkhana Club Ground,1,2006
+Brisbane,30,Australia,0,1,0,England,"Brisbane Cricket Ground, Woolloongabba",0,2011
+Cape Town,27,South Africa,0,11,0,England,Newlands,0,2009
+Hambantota,26,Sri Lanka,0,8,0,Pakistan,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",0,2014
+Nelson,5,Bangladesh,1,3,0,Scotland,Saxton Oval,0,2015
+Potchefstroom,7,South Africa,0,11,0,Bangladesh,Senwes Park,0,2008
+Kolkata,15,Ireland,1,3,0,South Africa,Eden Gardens,1,2011
+Leeds,5,England,0,9,0,India,Headingley,0,2014
+Southampton,5,England,0,9,0,Pakistan,The Rose Bowl,1,2006
+Mirpur,22,Bangladesh,0,2,0,Sri Lanka,Shere Bangla National Stadium,1,2014
+London,12,England,0,9,0,Australia,Lord's,1,2009
+Mumbai,25,India,1,10,0,South Africa,Wankhede Stadium,1,2015
+Nagpur,18,India,0,12,0,Sri Lanka,"Vidarbha Cricket Association Stadium, Jamtha",1,2009
+London,29,England,0,6,0,Australia,Lord's,0,2012
+Hamilton,10,India,1,3,0,Ireland,Seddon Park,0,2015
+Napier,1,New Zealand,0,2,0,Pakistan,McLean Park,1,2011
+Abu Dhabi,17,New Zealand,0,12,0,Pakistan,Sheikh Zayed Stadium,0,2014
+Mirpur,18,India,1,3,0,Pakistan,Shere Bangla National Stadium,0,2012
+Antigua,13,West Indies,0,6,0,India,"Sir Vivian Richards Stadium, North Sound",0,2011
+Birmingham,27,England,0,8,0,India,Edgbaston,0,2007
+Wellington,1,England,0,3,0,Sri Lanka,Westpac Stadium,1,2015
+Manchester,8,England,1,9,0,Australia,Old Trafford,1,2013
+Kolkata,18,Ireland,1,3,0,Netherlands,Eden Gardens,0,2011
+Johannesburg,17,South Africa,0,3,0,Pakistan,New Wanderers Stadium,0,2013
+Bangalore,6,India,1,3,0,Ireland,M Chinnaswamy Stadium,0,2011
+Chester-le-Street,3,England,1,9,2,India,Riverside Ground,0,2011
+Kolkata,8,India,1,2,2,Sri Lanka,Eden Gardens,0,2007
+Karachi,28,Bangladesh,0,6,0,India,National Stadium,1,2008
+Jaipur,2,South Africa,0,11,0,West Indies,Sawai Mansingh Stadium,1,2006
+Hambantota,20,Sri Lanka,0,2,0,Canada,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",0,2011
+Vadodara,31,India,0,1,0,West Indies,Indian Petrochemicals Corporation Limited Sports Complex Ground,0,2007
+Ahmedabad,21,Australia,0,2,0,Zimbabwe,"Sardar Patel Stadium, Motera",0,2011
+St Kitts,24,Australia,0,3,0,South Africa,"Warner Park, Basseterre",0,2007
+Hobart,11,Scotland,1,3,0,Sri Lanka,Bellerive Oval,1,2015
+Ayr,16,Scotland,0,8,0,Afghanistan,Cambusdoon New Ground,1,2010
+Belfast,1,India,1,7,0,South Africa,"Civil Service Cricket Club, Stormont",0,2007
+Mount Maunganui,28,Canada,0,1,0,Netherlands,Bay Oval,1,2014
+Colombo,1,Sri Lanka,1,3,0,Kenya,R Premadasa Stadium,0,2011
+Southampton,3,England,1,9,0,Australia,The Rose Bowl,1,2015
+Chittagong,15,Bangladesh,1,7,0,South Africa,Zahur Ahmed Chowdhury Stadium,0,2015
+Napier,28,New Zealand,0,12,0,Bangladesh,McLean Park,0,2007
+Chennai,17,England,0,3,0,West Indies,"MA Chidambaram Stadium, Chepauk",0,2011
+Nairobi,27,Kenya,1,10,0,Bermuda,Gymkhana Club Ground,0,2007
+Perth,3,Australia,0,2,0,West Indies,Western Australia Cricket Association Ground,0,2013
+Jaipur,21,Australia,1,10,0,England,Sawai Mansingh Stadium,0,2006
+Lahore,26,Pakistan,0,5,0,Zimbabwe,Gaddafi Stadium,0,2015
+Johannesburg,3,New Zealand,1,10,0,Pakistan,New Wanderers Stadium,0,2009
+Belfast,27,Ireland,1,8,0,England,"Civil Service Cricket Club, Stormont",1,2009
+Kochi,15,India,0,1,0,England,Nehru Stadium,0,2013
+Chittagong,5,Bangladesh,1,3,0,England,Zohur Ahmed Chowdhury Stadium,1,2010
+London,31,England,1,5,0,Sri Lanka,Lord's,1,2014
+St Lucia,20,Kenya,1,3,0,New Zealand,"Beausejour Stadium, Gros Islet",1,2007
+Trinidad,10,West Indies,1,4,0,Sri Lanka,"Queen's Park Oval, Port of Spain",0,2008
+Colombo,26,Sri Lanka,1,3,0,England,R Premadasa Stadium,0,2011
+Wellington,20,New Zealand,1,2,0,England,Westpac Stadium,0,2015
